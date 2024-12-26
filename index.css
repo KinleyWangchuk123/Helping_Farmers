@@ -1,0 +1,18 @@
+H1 {
+    color: rgb(0, 0, 0,0.75);
+}
+
+body {
+    background-image: url("images/i\ remember\ it.jpg");
+}
+nav a {
+    background-color: white;
+    color: green;
+    display: flow-root;
+    padding: 25px 30px 5px 30px;
+    justify-content: space-between;
+    display: inline;
+}
+nav a:hover{
+    color: blue;
+}
